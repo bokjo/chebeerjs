@@ -1,0 +1,13 @@
+{
+    "name": "beerjs",
+    "main": "index.ts",
+    "devDependencies": {
+        "@types/node": "^18"
+    },
+    "dependencies": {
+        "@pulumi/gcp": "^7.0.0",
+        "@pulumi/pulumi": "^3.113.0",
+        "@pulumi/synced-folder": "^0.11.1",
+        "typescript": "^5.0.0"
+    }
+}

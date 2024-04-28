@@ -1,0 +1,10 @@
+encryptionsalt: v1:OL28OfRfHsc=:v1:QJlrxB88vaFfeyL1:z2FCvig4ZsX8zRtYbdtGowK2SQd+ZA==
+config:
+  beerjs:errorDocument: error.html
+  beerjs:indexDocument: index.html
+  beerjs:path: ./www
+  beerjs:test:
+    secure: v1:DzVR6TBotoW+UJt6:DtVC619f57/BwbQm/VGRFsqlPqs=
+  gcp:project: example-gcp-project
+  gcp:region: europe-west4
+  gcp:zone: europe-west4-a

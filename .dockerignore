@@ -1,0 +1,11 @@
+node_modules/
+dist/
+deploy/
+.eslintrc.js
+.gitignore
+.nvmrc
+.prettierrc
+CHANGELOG.md
+Makefile
+README.md
+RELEASE.md
